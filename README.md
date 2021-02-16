@@ -1,4 +1,4 @@
-# github-commands
+# git-commands
 - git init
 - git clone "repolink"
 - git status
